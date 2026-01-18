@@ -4,3 +4,4 @@ fpdf
 streamlit-option-menu
 streamlit-lottie
 requests
+plotly
