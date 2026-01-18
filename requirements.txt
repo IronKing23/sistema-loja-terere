@@ -1,0 +1,6 @@
+streamlit
+pandas
+fpdf
+streamlit-option-menu
+streamlit-lottie
+requests
